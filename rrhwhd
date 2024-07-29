@@ -1,0 +1,7 @@
+echo "# Riya" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Riayadav4559/Riya.git
+git push -u origin main
